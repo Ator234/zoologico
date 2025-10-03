@@ -47,8 +47,8 @@ El programa está desarrollado en Java, siguiendo el patrón Modelo-Vista-Contro
 
 ## Tecnologías utilizadas
 
-- Java 17+  
-- Jakarta Persistence / Hibernate (para la capa de persistencia)  
+- Java 25  
+- Jakarta Persistence / Hibernate (para la persistencia)  
 - Swing (javax.swing) (para la interfaz gráfica)  
 - Base de datos relacional (compatible con Hibernate)  
 
